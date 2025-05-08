@@ -26,5 +26,5 @@ This project is intended for educational purpose only.
 
 - [One Dark Pro (Theme)](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-- [Prettier Plugin Tailwind CSS](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
+- [Prettier Plugin TailwindCSS](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
