@@ -4,7 +4,7 @@ const Appbar = () => {
   return (
     <nav>
       <div className="container mx-auto flex items-center justify-between p-4">
-        <h1 className="text-2xl font-bold">URL Shortner</h1>
+        <h1 className="text-2xl font-bold">Shortsy</h1>
 
         <div>
           <a

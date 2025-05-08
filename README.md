@@ -1,4 +1,4 @@
-# URL Shortner - Generate URLs With Ease
+# Shortsy - Generate URLs With Ease
 
 A simple and efficient URL Shortener built with React. This app allows users to input long URLs and generate shortened links that are easy to share.
 
