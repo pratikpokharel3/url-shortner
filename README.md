@@ -11,7 +11,7 @@ This project is intended for educational purpose only.
 
 - [React](https://react.dev/)
 - [Typescript](https://www.typescriptlang.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
+- [TailwindCSS](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
 
 (See `package.json` file for more information)
